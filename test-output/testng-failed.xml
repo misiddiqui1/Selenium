@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" name="Failed suite [Regression Suite]" parallel="tests">
+  <test name="Login tests(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.anass.orangehrm.tests.ValidLoginTest">
+        <methods>
+          <include name="ValidLogin"/>
+          <include name="tearDown"/>
+          <include name="setupDriver"/>
+        </methods>
+      </class> <!-- com.anass.orangehrm.tests.ValidLoginTest -->
+    </classes>
+  </test> <!-- Login tests(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

@@ -1,0 +1,452 @@
+2018-11-26 21:31:26,130 INFO  [TestBase] Chrome browser is invoked 
+2018-11-26 21:31:32,032 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-11-26 21:31:32,316 INFO  [LoginPage] Username is set as Admin 
+2018-11-26 21:31:32,607 INFO  [LoginPage] Password is set as admin123 
+2018-11-26 21:31:35,064 INFO  [LoginPage] Clicked Sign In button 
+2018-11-26 21:31:35,066 INFO  [HomePage] Home page constructor is invoked 
+2018-11-26 21:31:35,166 INFO  [HomePage] Home page welcome text : Welcome Admin 
+2018-11-26 21:31:35,513 INFO  [TestBase] Driver is closed 
+2018-11-26 21:31:39,054 INFO  [TestBase] Chrome browser is invoked 
+2018-11-26 21:31:44,556 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-11-26 21:31:44,863 INFO  [LoginPage] Username is set as gvvhg 
+2018-11-26 21:31:45,036 INFO  [LoginPage] Password is set as kjhkj 
+2018-11-26 21:31:46,035 INFO  [LoginPage] Clicked Sign In button 
+2018-11-26 21:31:46,120 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-11-26 21:31:46,445 INFO  [TestBase] Driver is closed 
+2018-11-26 21:39:11,984 INFO  [TestBase] Chrome browser is invoked 
+2018-11-26 21:39:17,400 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-11-26 21:39:17,597 INFO  [LoginPage] Username is set as Admin 
+2018-11-26 21:39:17,793 INFO  [LoginPage] Password is set as admin123 
+2018-11-26 21:42:22,102 INFO  [ListenerTest] ---Suite started----Regression Suite 
+2018-11-26 21:42:26,024 INFO  [TestBase] Chrome browser is invoked 
+2018-11-26 21:42:31,081 INFO  [ListenerTest] ---Test method started----ValidLogin 
+2018-11-26 21:42:31,173 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-11-26 21:42:31,432 INFO  [LoginPage] Username is set as Admin 
+2018-11-26 21:42:31,697 INFO  [LoginPage] Password is set as admin123 
+2018-11-26 21:42:33,849 INFO  [LoginPage] Clicked Sign In button 
+2018-11-26 21:42:33,972 INFO  [HomePage] Home page constructor is invoked 
+2018-11-26 21:42:34,052 INFO  [HomePage] Home page welcome text : Welcome Admin 
+2018-11-26 21:42:34,103 INFO  [ListenerTest] ---Test method Success----ValidLogin 
+2018-11-26 21:42:34,461 INFO  [TestBase] Driver is closed 
+2018-11-26 21:42:38,236 INFO  [TestBase] Chrome browser is invoked 
+2018-11-26 21:42:43,508 INFO  [ListenerTest] ---Test method started----InValidLogin 
+2018-11-26 21:42:43,510 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-11-26 21:42:43,696 INFO  [LoginPage] Username is set as gvvhg 
+2018-11-26 21:42:43,873 INFO  [LoginPage] Password is set as kjhkj 
+2018-11-26 21:42:44,809 INFO  [LoginPage] Clicked Sign In button 
+2018-11-26 21:42:44,873 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-11-26 21:42:44,915 INFO  [ListenerTest] ---Test method Success----InValidLogin 
+2018-11-26 21:42:45,062 INFO  [TestBase] Driver is closed 
+2018-11-26 21:42:45,127 INFO  [ListenerTest] ---Suite Completed----Regression Suite 
+2018-11-26 21:44:23,326 INFO  [ListenerTest] ---Suite started----Regression Suite 
+2018-11-26 21:44:28,293 INFO  [TestBase] Chrome browser is invoked 
+2018-11-26 21:44:32,903 INFO  [ListenerTest] ---Test method started----ValidLogin 
+2018-11-26 21:44:32,956 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-11-26 21:44:33,236 INFO  [LoginPage] Username is set as Admin 
+2018-11-26 21:44:33,447 INFO  [LoginPage] Password is set as admin123 
+2018-11-26 21:44:35,664 INFO  [LoginPage] Clicked Sign In button 
+2018-11-26 21:44:35,666 INFO  [HomePage] Home page constructor is invoked 
+2018-11-26 21:44:35,745 INFO  [HomePage] Home page welcome text : Welcome Admin 
+2018-11-26 21:44:35,789 INFO  [ListenerTest] ---Test method Failed----ValidLogin 
+2018-11-26 21:44:36,019 INFO  [TestBase] Driver is closed 
+2018-11-26 21:44:38,522 INFO  [TestBase] Chrome browser is invoked 
+2018-11-26 21:44:44,793 INFO  [ListenerTest] ---Test method started----InValidLogin 
+2018-11-26 21:44:44,794 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-11-26 21:44:45,046 INFO  [LoginPage] Username is set as gvvhg 
+2018-11-26 21:44:45,245 INFO  [LoginPage] Password is set as kjhkj 
+2018-11-26 21:44:46,305 INFO  [LoginPage] Clicked Sign In button 
+2018-11-26 21:44:46,386 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-11-26 21:44:46,434 INFO  [ListenerTest] ---Test method Success----InValidLogin 
+2018-11-26 21:44:46,618 INFO  [TestBase] Driver is closed 
+2018-11-26 21:44:46,663 INFO  [ListenerTest] ---Suite Completed----Regression Suite 
+2018-11-26 21:47:06,435 INFO  [ListenerTest] ---Suite started----Regression Suite 
+2018-11-26 21:47:11,520 INFO  [TestBase] Chrome browser is invoked 
+2018-11-26 21:47:17,236 INFO  [ListenerTest] ---Test method started----ValidLogin 
+2018-11-26 21:47:17,305 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-11-26 21:47:17,516 INFO  [LoginPage] Username is set as Admin 
+2018-11-26 21:47:17,737 INFO  [LoginPage] Password is set as admin123 
+2018-11-26 21:47:20,118 INFO  [LoginPage] Clicked Sign In button 
+2018-11-26 21:47:20,120 INFO  [HomePage] Home page constructor is invoked 
+2018-11-26 21:47:20,195 INFO  [HomePage] Home page welcome text : Welcome Admin 
+2018-11-26 21:47:20,245 INFO  [ListenerTest] ---Test method Failed----ValidLogin 
+2018-11-26 21:47:20,580 INFO  [TestBase] Driver is closed 
+2018-11-26 21:47:23,761 INFO  [TestBase] Chrome browser is invoked 
+2018-11-26 21:47:29,271 INFO  [ListenerTest] ---Test method started----InValidLogin 
+2018-11-26 21:47:29,275 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-11-26 21:47:29,475 INFO  [LoginPage] Username is set as gvvhg 
+2018-11-26 21:47:29,664 INFO  [LoginPage] Password is set as kjhkj 
+2018-11-26 21:47:30,575 INFO  [LoginPage] Clicked Sign In button 
+2018-11-26 21:47:30,644 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-11-26 21:47:30,694 INFO  [ListenerTest] ---Test method Success----InValidLogin 
+2018-11-26 21:47:30,946 INFO  [TestBase] Driver is closed 
+2018-11-26 21:47:30,993 INFO  [ListenerTest] ---Suite Completed----Regression Suite 
+2018-11-26 21:51:47,935 INFO  [ListenerTest] ---Suite started----Regression Suite 
+2018-11-26 21:51:52,165 INFO  [TestBase] Chrome browser is invoked 
+2018-11-26 21:51:57,752 INFO  [ListenerTest] ---Test method started----ValidLogin 
+2018-11-26 21:51:57,803 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-11-26 21:51:58,070 INFO  [LoginPage] Username is set as Admin 
+2018-11-26 21:51:58,311 INFO  [LoginPage] Password is set as admin123 
+2018-11-26 21:52:00,816 INFO  [LoginPage] Clicked Sign In button 
+2018-11-26 21:52:00,817 INFO  [HomePage] Home page constructor is invoked 
+2018-11-26 21:52:00,898 INFO  [HomePage] Home page welcome text : Welcome Admin 
+2018-11-26 21:52:00,951 INFO  [ListenerTest] ---Test method Failed----ValidLogin 
+2018-11-26 21:52:03,381 INFO  [ListenerTest] D:\ANASS\orangehrm_21-11-2018\Screenshots\failed\ValidLogin-2018-11-26-21-52-03.png 
+2018-11-26 21:52:03,768 INFO  [TestBase] Driver is closed 
+2018-11-26 21:52:07,166 INFO  [TestBase] Chrome browser is invoked 
+2018-11-26 21:52:12,620 INFO  [ListenerTest] ---Test method started----InValidLogin 
+2018-11-26 21:52:12,623 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-11-26 21:52:12,824 INFO  [LoginPage] Username is set as gvvhg 
+2018-11-26 21:52:13,005 INFO  [LoginPage] Password is set as kjhkj 
+2018-11-26 21:52:13,895 INFO  [LoginPage] Clicked Sign In button 
+2018-11-26 21:52:13,975 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-11-26 21:52:14,015 INFO  [ListenerTest] ---Test method Success----InValidLogin 
+2018-11-26 21:52:14,196 INFO  [TestBase] Driver is closed 
+2018-11-26 21:52:14,243 INFO  [ListenerTest] ---Suite Completed----Regression Suite 
+2018-11-26 21:54:01,228 INFO  [ListenerTest] ---Suite started----Regression Suite 
+2018-11-26 21:54:05,630 INFO  [TestBase] Chrome browser is invoked 
+2018-11-26 21:54:11,326 INFO  [ListenerTest] ---Test method started----ValidLogin 
+2018-11-26 21:54:11,381 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-11-26 21:54:11,588 INFO  [LoginPage] Username is set as Admin 
+2018-11-26 21:54:11,753 INFO  [LoginPage] Password is set as admin123 
+2018-11-26 21:54:14,535 INFO  [LoginPage] Clicked Sign In button 
+2018-11-26 21:54:14,537 INFO  [HomePage] Home page constructor is invoked 
+2018-11-26 21:54:14,595 INFO  [HomePage] Home page welcome text : Welcome Admin 
+2018-11-26 21:54:14,635 INFO  [ListenerTest] ---Test method Failed----ValidLogin 
+2018-11-26 21:54:17,089 INFO  [ListenerTest] D:\ANASS\orangehrm_21-11-2018\Screenshots\failed\ValidLogin-2018-11-26-21-54-17.png 
+2018-11-26 21:54:17,363 INFO  [TestBase] Driver is closed 
+2018-11-26 21:54:20,565 INFO  [TestBase] Chrome browser is invoked 
+2018-11-26 21:54:26,101 INFO  [ListenerTest] ---Test method started----InValidLogin 
+2018-11-26 21:54:26,104 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-11-26 21:54:26,305 INFO  [LoginPage] Username is set as gvvhg 
+2018-11-26 21:54:26,495 INFO  [LoginPage] Password is set as kjhkj 
+2018-11-26 21:54:27,460 INFO  [LoginPage] Clicked Sign In button 
+2018-11-26 21:54:27,537 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-11-26 21:54:27,568 INFO  [ListenerTest] ---Test method Success----InValidLogin 
+2018-11-26 21:54:27,991 INFO  [ListenerTest] D:\ANASS\orangehrm_21-11-2018\Screenshots\passed\InValidLogin-2018-11-26-21-54-27.png 
+2018-11-26 21:54:30,231 INFO  [TestBase] Driver is closed 
+2018-11-26 21:54:30,269 INFO  [ListenerTest] ---Suite Completed----Regression Suite 
+2018-11-26 21:57:31,812 INFO  [ListenerTest] ---Suite started----Regression Suite 
+2018-11-26 21:57:37,161 INFO  [TestBase] Chrome browser is invoked 
+2018-11-26 21:57:42,694 INFO  [ListenerTest] ---Test method started----ValidLogin 
+2018-11-26 21:57:42,734 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-11-26 21:57:42,916 INFO  [LoginPage] Username is set as Admin 
+2018-11-26 21:57:43,087 INFO  [LoginPage] Password is set as admin123 
+2018-11-26 21:57:45,682 INFO  [LoginPage] Clicked Sign In button 
+2018-11-26 21:57:45,684 INFO  [HomePage] Home page constructor is invoked 
+2018-11-26 21:57:45,763 INFO  [HomePage] Home page welcome text : Welcome Admin 
+2018-11-26 21:57:45,821 INFO  [ListenerTest] ---Test method Failed----ValidLogin 
+2018-11-26 21:57:47,907 INFO  [ListenerTest] D:\ANASS\orangehrm_21-11-2018\Screenshots\failed\ValidLogin-2018-11-26-21-57-47.png 
+2018-11-26 21:57:48,181 INFO  [TestBase] Driver is closed 
+2018-11-26 21:57:51,460 INFO  [TestBase] Chrome browser is invoked 
+2018-11-26 21:57:56,804 INFO  [ListenerTest] ---Test method started----InValidLogin 
+2018-11-26 21:57:56,806 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-11-26 21:57:56,997 INFO  [LoginPage] Username is set as gvvhg 
+2018-11-26 21:57:57,194 INFO  [LoginPage] Password is set as kjhkj 
+2018-11-26 21:57:58,104 INFO  [LoginPage] Clicked Sign In button 
+2018-11-26 21:57:58,170 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-11-26 21:57:58,204 INFO  [ListenerTest] ---Test method Success----InValidLogin 
+2018-11-26 21:57:58,608 INFO  [ListenerTest] D:\ANASS\orangehrm_21-11-2018\Screenshots\passed\InValidLogin-2018-11-26-21-57-58.png 
+2018-11-26 21:57:58,924 INFO  [TestBase] Driver is closed 
+2018-11-26 21:57:58,964 INFO  [ListenerTest] ---Suite Completed----Regression Suite 
+2018-11-26 22:03:58,012 INFO  [ListenerTest] ---Suite started----Regression Suite 
+2018-11-26 22:04:02,207 INFO  [TestBase] Chrome browser is invoked 
+2018-11-26 22:04:07,620 INFO  [ListenerTest] ---Test method started----ValidLogin 
+2018-11-26 22:04:07,661 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-11-26 22:04:07,843 INFO  [LoginPage] Username is set as Admin 
+2018-11-26 22:04:08,022 INFO  [LoginPage] Password is set as admin123 
+2018-11-26 22:04:10,334 INFO  [LoginPage] Clicked Sign In button 
+2018-11-26 22:04:10,336 INFO  [HomePage] Home page constructor is invoked 
+2018-11-26 22:04:10,412 INFO  [HomePage] Home page welcome text : Welcome Admin 
+2018-11-26 22:04:10,455 INFO  [ListenerTest] ---Test method Failed----ValidLogin 
+2018-11-26 22:04:12,772 INFO  [ListenerTest] D:\ANASS\orangehrm_21-11-2018\Screenshots\failed\ValidLogin-2018-11-26-22-04-12.png 
+2018-11-26 22:04:12,959 INFO  [TestBase] Driver is closed 
+2018-11-26 22:04:16,619 INFO  [TestBase] Chrome browser is invoked 
+2018-11-26 22:04:22,277 INFO  [ListenerTest] ---Test method started----emptyPassword 
+2018-11-26 22:04:22,278 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-11-26 22:04:22,488 INFO  [LoginPage] Username is set as Admin 
+2018-11-26 22:04:22,652 INFO  [LoginPage] Password is set as  
+2018-11-26 22:04:22,762 INFO  [LoginPage] Clicked Sign In button 
+2018-11-26 22:04:22,838 INFO  [LoginPage] Login page error message : Password cannot be empty 
+2018-11-26 22:04:22,880 INFO  [ListenerTest] ---Test method Success----emptyPassword 
+2018-11-26 22:04:23,268 INFO  [ListenerTest] D:\ANASS\orangehrm_21-11-2018\Screenshots\passed\emptyPassword-2018-11-26-22-04-23.png 
+2018-11-26 22:04:23,492 INFO  [TestBase] Driver is closed 
+2018-11-26 22:04:26,758 INFO  [TestBase] Chrome browser is invoked 
+2018-11-26 22:04:32,416 INFO  [ListenerTest] ---Test method started----emptyUsername 
+2018-11-26 22:04:32,417 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-11-26 22:04:32,588 INFO  [LoginPage] Username is set as  
+2018-11-26 22:04:32,711 INFO  [LoginPage] Clicked Sign In button 
+2018-11-26 22:04:32,800 INFO  [LoginPage] Login page error message : Username cannot be empty 
+2018-11-26 22:04:32,851 INFO  [ListenerTest] ---Test method Success----emptyUsername 
+2018-11-26 22:04:33,209 INFO  [ListenerTest] D:\ANASS\orangehrm_21-11-2018\Screenshots\passed\emptyUsername-2018-11-26-22-04-33.png 
+2018-11-26 22:04:33,424 INFO  [TestBase] Driver is closed 
+2018-11-26 22:04:36,317 INFO  [TestBase] Chrome browser is invoked 
+2018-11-26 22:04:42,015 INFO  [ListenerTest] ---Test method started----InValidLogin 
+2018-11-26 22:04:42,017 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-11-26 22:04:42,190 INFO  [LoginPage] Username is set as gvvhg 
+2018-11-26 22:04:42,362 INFO  [LoginPage] Password is set as kjhkj 
+2018-11-26 22:04:43,349 INFO  [LoginPage] Clicked Sign In button 
+2018-11-26 22:04:43,421 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-11-26 22:04:43,459 INFO  [ListenerTest] ---Test method Success----InValidLogin 
+2018-11-26 22:04:43,811 INFO  [ListenerTest] D:\ANASS\orangehrm_21-11-2018\Screenshots\passed\InValidLogin-2018-11-26-22-04-43.png 
+2018-11-26 22:04:44,083 INFO  [TestBase] Driver is closed 
+2018-11-26 22:04:44,117 INFO  [ListenerTest] ---Suite Completed----Regression Suite 
+2018-12-07 21:40:17,873 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 21:40:23,825 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:40:24,028 INFO  [LoginPage] Username is set as "Admin" 
+2018-12-07 21:40:24,029 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:40:24,236 INFO  [LoginPage] Password is set as "admin123" 
+2018-12-07 21:40:24,237 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:40:25,098 INFO  [LoginPage] Clicked Sign In button 
+2018-12-07 21:40:25,099 INFO  [HomePage] Home page constructor is invoked 
+2018-12-07 21:44:28,203 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 21:44:33,773 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:44:33,980 INFO  [LoginPage] Username is set as Admin 
+2018-12-07 21:44:33,982 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:44:34,155 INFO  [LoginPage] Password is set as admin123 
+2018-12-07 21:44:34,156 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:44:36,407 INFO  [LoginPage] Clicked Sign In button 
+2018-12-07 21:44:36,408 INFO  [HomePage] Home page constructor is invoked 
+2018-12-07 21:44:36,480 INFO  [HomePage] Home page welcome text : Welcome Admin 
+2018-12-07 21:50:26,640 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 21:50:32,172 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:50:32,347 INFO  [LoginPage] Username is set as user 
+2018-12-07 21:50:32,349 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:50:32,526 INFO  [LoginPage] Password is set as password 
+2018-12-07 21:50:32,527 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:50:33,500 INFO  [LoginPage] Clicked Sign In button 
+2018-12-07 21:50:33,502 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:50:33,573 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-12-07 21:50:38,682 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 21:50:47,425 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:50:47,644 INFO  [LoginPage] Username is set as Admin 
+2018-12-07 21:50:47,645 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:50:47,854 INFO  [LoginPage] Password is set as admin123 
+2018-12-07 21:50:47,855 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:50:49,986 INFO  [LoginPage] Clicked Sign In button 
+2018-12-07 21:50:49,989 INFO  [HomePage] Home page constructor is invoked 
+2018-12-07 21:52:24,361 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 21:52:31,340 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:52:31,520 INFO  [LoginPage] Username is set as user 
+2018-12-07 21:52:31,521 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:52:31,701 INFO  [LoginPage] Password is set as password 
+2018-12-07 21:52:31,702 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:52:32,539 INFO  [LoginPage] Clicked Sign In button 
+2018-12-07 21:52:32,542 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:52:32,602 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-12-07 21:52:37,038 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 21:52:45,775 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:52:45,981 INFO  [LoginPage] Username is set as Admin 
+2018-12-07 21:52:45,983 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:52:46,195 INFO  [LoginPage] Password is set as admin123 
+2018-12-07 21:52:46,196 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:52:48,383 INFO  [LoginPage] Clicked Sign In button 
+2018-12-07 21:52:48,386 INFO  [HomePage] Home page constructor is invoked 
+2018-12-07 21:54:37,870 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 21:54:44,035 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:54:44,223 INFO  [LoginPage] Username is set as user 
+2018-12-07 21:54:44,224 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:54:44,395 INFO  [LoginPage] Password is set as password 
+2018-12-07 21:54:44,396 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:54:45,224 INFO  [LoginPage] Clicked Sign In button 
+2018-12-07 21:54:45,227 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:54:45,296 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-12-07 21:54:47,739 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 21:54:53,371 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:54:53,554 INFO  [LoginPage] Username is set as Admin 
+2018-12-07 21:54:53,555 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:54:53,736 INFO  [LoginPage] Password is set as admin123 
+2018-12-07 21:54:53,737 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:54:55,785 INFO  [LoginPage] Clicked Sign In button 
+2018-12-07 21:57:01,968 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 21:57:07,545 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:57:07,746 INFO  [LoginPage] Username is set as user 
+2018-12-07 21:57:07,748 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:57:07,934 INFO  [LoginPage] Password is set as password 
+2018-12-07 21:57:07,935 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:57:08,833 INFO  [LoginPage] Clicked Sign In button 
+2018-12-07 21:57:08,836 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:57:08,895 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-12-07 21:57:11,471 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 21:57:17,301 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:57:17,484 INFO  [LoginPage] Username is set as Admin 
+2018-12-07 21:57:17,485 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:57:17,671 INFO  [LoginPage] Password is set as admin123 
+2018-12-07 21:57:17,673 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:57:19,825 INFO  [LoginPage] Clicked Sign In button 
+2018-12-07 21:57:19,827 INFO  [HomePage] Home page constructor is invoked 
+2018-12-07 21:58:38,197 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 21:58:43,976 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:58:44,154 INFO  [LoginPage] Username is set as user 
+2018-12-07 21:58:44,156 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:58:44,336 INFO  [LoginPage] Password is set as password 
+2018-12-07 21:58:44,337 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:58:45,134 INFO  [LoginPage] Clicked Sign In button 
+2018-12-07 21:58:45,136 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:58:45,203 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-12-07 21:58:47,517 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 21:58:53,293 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:58:53,533 INFO  [LoginPage] Username is set as Admin 
+2018-12-07 21:58:53,534 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:58:53,750 INFO  [LoginPage] Password is set as admin123 
+2018-12-07 21:58:53,751 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 21:58:55,867 INFO  [LoginPage] Clicked Sign In button 
+2018-12-07 21:58:55,870 INFO  [HomePage] Home page constructor is invoked 
+2018-12-07 21:58:55,967 INFO  [HomePage] Home page welcome text : Welcome Admin 
+2018-12-07 22:01:43,865 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 22:01:49,786 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 22:01:50,025 INFO  [LoginPage] Username is set as user 
+2018-12-07 22:01:50,027 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 22:01:50,241 INFO  [LoginPage] Password is set as password 
+2018-12-07 22:01:50,242 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 22:01:51,080 INFO  [LoginPage] Clicked Sign In button 
+2018-12-07 22:01:51,084 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 22:01:51,159 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-12-07 22:01:53,852 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 22:02:00,277 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 22:02:00,543 INFO  [LoginPage] Username is set as Admin 
+2018-12-07 22:02:00,544 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 22:02:00,743 INFO  [LoginPage] Password is set as admin123 
+2018-12-07 22:02:00,743 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 22:02:03,064 INFO  [LoginPage] Clicked Sign In button 
+2018-12-07 22:02:03,068 INFO  [HomePage] Home page constructor is invoked 
+2018-12-07 22:02:04,500 INFO  [HomePage] Home page welcome text : Welcome Admin 
+2018-12-07 22:03:13,393 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 22:03:19,351 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 22:03:21,781 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 22:03:27,643 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 22:07:12,517 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 22:07:17,939 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 22:07:18,138 INFO  [LoginPage] Username is set as user 
+2018-12-07 22:07:18,140 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 22:07:18,341 INFO  [LoginPage] Password is set as password 
+2018-12-07 22:07:18,343 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 22:07:19,216 INFO  [LoginPage] Clicked Sign In button 
+2018-12-07 22:07:19,218 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 22:07:19,286 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-12-07 22:07:21,765 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 22:07:27,503 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 22:07:27,692 INFO  [LoginPage] Username is set as Admin 
+2018-12-07 22:07:27,693 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 22:07:27,883 INFO  [LoginPage] Password is set as admin123 
+2018-12-07 22:07:27,884 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 22:07:30,043 INFO  [LoginPage] Clicked Sign In button 
+2018-12-07 22:07:30,046 INFO  [HomePage] Home page constructor is invoked 
+2018-12-07 22:07:30,130 INFO  [HomePage] Home page welcome text : Welcome Admin 
+2018-12-07 22:09:46,017 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 22:09:54,193 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 22:10:02,283 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 22:10:10,521 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 22:10:16,173 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 22:10:16,502 INFO  [LoginPage] Username is set as Admin 
+2018-12-07 22:10:16,506 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 22:10:16,750 INFO  [LoginPage] Password is set as admin123 
+2018-12-07 22:10:16,751 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-07 22:10:18,829 INFO  [LoginPage] Clicked Sign In button 
+2018-12-07 22:10:18,831 INFO  [HomePage] Home page constructor is invoked 
+2018-12-07 22:10:18,938 INFO  [HomePage] Home page welcome text : Welcome Admin 
+2018-12-07 22:11:27,804 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 22:11:36,726 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 22:11:45,402 INFO  [TestBase] Chrome browser is invoked 
+2018-12-07 22:11:54,308 INFO  [TestBase] Chrome browser is invoked 
+2018-12-23 10:51:50,300 INFO  [ListenerTest] ---Suite started----Regression Suite 
+2018-12-23 10:51:55,132 INFO  [TestBase] Chrome browser is invoked 
+2018-12-23 10:51:57,456 INFO  [ListenerTest] ---Test method started----ValidLogin 
+2018-12-23 10:51:57,509 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-23 10:51:57,971 INFO  [LoginPage] Username is set as Admin 
+2018-12-23 10:51:58,301 INFO  [LoginPage] Password is set as admin123 
+2018-12-23 10:51:59,672 INFO  [LoginPage] Clicked Sign In button 
+2018-12-23 10:51:59,677 INFO  [HomePage] Home page constructor is invoked 
+2018-12-23 10:52:00,220 INFO  [HomePage] Home page welcome text : Welcome Admin 
+2018-12-23 10:52:00,271 INFO  [ListenerTest] ---Test method Failed----ValidLogin 
+2018-12-23 10:52:00,728 INFO  [ListenerTest] C:\Users\Tester\Downloads\orangehrm_26-11-2018-20181223T154348Z-001\orangehrm\Screenshots\failed\ValidLogin-2018-12-23-10-52-00.png 
+2018-12-23 10:52:03,241 INFO  [TestBase] Driver is closed 
+2018-12-23 10:52:05,967 INFO  [TestBase] Chrome browser is invoked 
+2018-12-23 10:52:08,123 INFO  [ListenerTest] ---Test method started----emptyPassword 
+2018-12-23 10:52:08,124 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-23 10:52:08,496 INFO  [LoginPage] Username is set as Admin 
+2018-12-23 10:52:08,668 INFO  [LoginPage] Password is set as  
+2018-12-23 10:52:08,746 INFO  [LoginPage] Clicked Sign In button 
+2018-12-23 10:52:08,805 INFO  [LoginPage] Login page error message : Password cannot be empty 
+2018-12-23 10:52:08,832 INFO  [ListenerTest] ---Test method Success----emptyPassword 
+2018-12-23 10:52:09,195 INFO  [ListenerTest] C:\Users\Tester\Downloads\orangehrm_26-11-2018-20181223T154348Z-001\orangehrm\Screenshots\passed\emptyPassword-2018-12-23-10-52-09.png 
+2018-12-23 10:52:09,383 INFO  [TestBase] Driver is closed 
+2018-12-23 10:52:11,960 INFO  [TestBase] Chrome browser is invoked 
+2018-12-23 10:52:14,215 INFO  [ListenerTest] ---Test method started----emptyUsername 
+2018-12-23 10:52:14,216 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-23 10:52:14,536 INFO  [LoginPage] Username is set as  
+2018-12-23 10:52:14,665 INFO  [LoginPage] Clicked Sign In button 
+2018-12-23 10:52:14,739 INFO  [LoginPage] Login page error message : Username cannot be empty 
+2018-12-23 10:52:14,786 INFO  [ListenerTest] ---Test method Success----emptyUsername 
+2018-12-23 10:52:15,128 INFO  [ListenerTest] C:\Users\Tester\Downloads\orangehrm_26-11-2018-20181223T154348Z-001\orangehrm\Screenshots\passed\emptyUsername-2018-12-23-10-52-15.png 
+2018-12-23 10:52:15,304 INFO  [TestBase] Driver is closed 
+2018-12-23 10:52:18,014 INFO  [TestBase] Chrome browser is invoked 
+2018-12-23 10:52:20,136 INFO  [ListenerTest] ---Test method started----InValidLogin 
+2018-12-23 10:52:20,138 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-23 10:52:20,492 INFO  [LoginPage] Username is set as gvvhg 
+2018-12-23 10:52:20,706 INFO  [LoginPage] Password is set as kjhkj 
+2018-12-23 10:52:21,097 INFO  [LoginPage] Clicked Sign In button 
+2018-12-23 10:52:21,201 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-12-23 10:52:21,272 INFO  [ListenerTest] ---Test method Success----InValidLogin 
+2018-12-23 10:52:21,687 INFO  [ListenerTest] C:\Users\Tester\Downloads\orangehrm_26-11-2018-20181223T154348Z-001\orangehrm\Screenshots\passed\InValidLogin-2018-12-23-10-52-21.png 
+2018-12-23 10:52:21,865 INFO  [TestBase] Driver is closed 
+2018-12-23 10:52:21,915 INFO  [ListenerTest] ---Suite Completed----Regression Suite 
+2018-12-23 10:53:34,699 INFO  [ListenerTest] ---Suite started----Regression Suite 
+2018-12-23 10:53:38,547 INFO  [TestBase] Chrome browser is invoked 
+2018-12-23 10:53:40,630 INFO  [ListenerTest] ---Test method started----InValidLogin 
+2018-12-23 10:53:40,723 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-23 10:53:41,100 INFO  [LoginPage] Username is set as gvvhg 
+2018-12-23 10:53:41,310 INFO  [LoginPage] Password is set as kjhkj 
+2018-12-23 10:53:41,671 INFO  [LoginPage] Clicked Sign In button 
+2018-12-23 10:53:41,738 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-12-23 10:53:41,765 INFO  [ListenerTest] ---Test method Success----InValidLogin 
+2018-12-23 10:53:42,131 INFO  [ListenerTest] C:\Users\Tester\Downloads\orangehrm_26-11-2018-20181223T154348Z-001\orangehrm\Screenshots\passed\InValidLogin-2018-12-23-10-53-42.png 
+2018-12-23 10:53:42,291 INFO  [TestBase] Driver is closed 
+2018-12-23 10:53:42,328 INFO  [ListenerTest] ---Suite Completed----Regression Suite 
+2018-12-23 11:32:25,959 INFO  [ListenerTest] ---Suite started----Regression Suite 
+2018-12-23 11:32:29,927 INFO  [TestBase] Chrome browser is invoked 
+2018-12-23 11:32:32,282 INFO  [ListenerTest] ---Test method started----InValidLogin 
+2018-12-23 11:32:32,464 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-23 11:32:32,939 INFO  [LoginPage] Username is set as gvvhg 
+2018-12-23 11:32:33,224 INFO  [LoginPage] Password is set as kjhkj 
+2018-12-23 11:32:33,774 INFO  [LoginPage] Clicked Sign In button 
+2018-12-23 11:32:33,854 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-12-23 11:32:33,899 INFO  [ListenerTest] ---Test method Success----InValidLogin 
+2018-12-23 11:32:34,305 INFO  [ListenerTest] C:\Users\Tester\Downloads\orangehrm_26-11-2018-20181223T154348Z-001\orangehrm\Screenshots\passed\InValidLogin-2018-12-23-11-32-34.png 
+2018-12-23 11:32:34,699 INFO  [TestBase] Driver is closed 
+2018-12-23 11:32:34,736 INFO  [ListenerTest] ---Suite Completed----Regression Suite 
+2018-12-29 21:21:12,987 INFO  [ListenerTest] ---Suite started----Regression Suite 
+2018-12-29 21:21:16,989 INFO  [TestBase] Chrome browser is invoked 
+2018-12-29 21:21:19,122 INFO  [ListenerTest] ---Test method started----InValidLogin 
+2018-12-29 21:21:19,187 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-29 21:21:19,609 INFO  [LoginPage] Username is set as gvvhg 
+2018-12-29 21:21:19,878 INFO  [LoginPage] Password is set as kjhkj 
+2018-12-29 21:21:20,304 INFO  [LoginPage] Clicked Sign In button 
+2018-12-29 21:21:20,373 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-12-29 21:21:20,416 INFO  [ListenerTest] ---Test method Success----InValidLogin 
+2018-12-29 21:21:20,804 INFO  [ListenerTest] C:\Users\Tester\Downloads\orangehrm_26-11-2018-20181223T154348Z-001\orangehrm\Screenshots\passed\InValidLogin-2018-12-29-21-21-20.png 
+2018-12-29 21:21:21,193 INFO  [TestBase] Driver is closed 
+2018-12-29 21:21:21,244 INFO  [ListenerTest] ---Suite Completed----Regression Suite 
+2018-12-29 21:23:53,817 INFO  [ListenerTest] ---Suite started----Regression Suite 
+2018-12-29 21:23:57,672 INFO  [TestBase] Chrome browser is invoked 
+2018-12-29 21:23:59,791 INFO  [ListenerTest] ---Test method started----InValidLogin 
+2018-12-29 21:23:59,841 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-29 21:24:00,214 INFO  [LoginPage] Username is set as gvvhg 
+2018-12-29 21:24:00,496 INFO  [LoginPage] Password is set as kjhkj 
+2018-12-29 21:24:00,902 INFO  [LoginPage] Clicked Sign In button 
+2018-12-29 21:24:01,004 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-12-29 21:24:01,054 INFO  [ListenerTest] ---Test method Success----InValidLogin 
+2018-12-29 21:24:01,437 INFO  [ListenerTest] C:\Users\Tester\Downloads\orangehrm_26-11-2018-20181223T154348Z-001\orangehrm\Screenshots\passed\InValidLogin-2018-12-29-21-24-01.png 
+2018-12-29 21:24:01,670 INFO  [TestBase] Driver is closed 
+2018-12-29 21:24:01,727 INFO  [ListenerTest] ---Suite Completed----Regression Suite 
+2018-12-29 21:27:15,873 INFO  [ListenerTest] ---Suite started----Regression Suite 
+2018-12-29 21:27:19,606 INFO  [TestBase] Chrome browser is invoked 
+2018-12-29 21:27:21,732 INFO  [ListenerTest] ---Test method started----InValidLogin 
+2018-12-29 21:27:21,788 INFO  [LoginPage] Loginpage Constructor is invoked 
+2018-12-29 21:27:22,206 INFO  [LoginPage] Username is set as gvvhg 
+2018-12-29 21:27:22,439 INFO  [LoginPage] Password is set as kjhkj 
+2018-12-29 21:27:22,819 INFO  [LoginPage] Clicked Sign In button 
+2018-12-29 21:27:22,898 INFO  [LoginPage] Login page error message : Invalid credentials 
+2018-12-29 21:27:22,942 INFO  [ListenerTest] ---Test method Success----InValidLogin 
+2018-12-29 21:27:23,318 INFO  [ListenerTest] C:\Users\Tester\Downloads\orangehrm_26-11-2018-20181223T154348Z-001\orangehrm\Screenshots\passed\InValidLogin-2018-12-29-21-27-23.png 
+2018-12-29 21:27:23,507 INFO  [TestBase] Driver is closed 
+2018-12-29 21:27:23,532 INFO  [ListenerTest] ---Suite Completed----Regression Suite 

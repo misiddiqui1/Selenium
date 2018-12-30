@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Regression Suite" parallel="tests" thread-count="1">
+
+<!--   <listeners>
+      <listener class-name="com.anass.orangehrm.listeners.ListenerTest"/>
+  </listeners> -->
+
+  <test name="Login tests">
+  <parameter name="browser" value="chrome" />
+    <classes>
+      <class name="com.anass.orangehrm.tests.InValidLoginTest"/>
+    </classes>
+  </test> 
+</suite>

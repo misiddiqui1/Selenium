@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[screenshot for C:\Users\Tester\Downloads\orangehrm_26-11-2018-20181223T154348Z-001\orangehrm\target\surefire-reports\Screenshots\passed\InValidLogin-2018-12-29-21-24-01.png url=https://opensource-demo.orangehrmlive.com/index.php/auth/validateCredentials<div style="height:650px;width:1000px;overflow:scroll"><a target='_blank' href='C:\Users\Tester\Downloads\orangehrm_26-11-2018-20181223T154348Z-001\orangehrm\target\surefire-reports\Screenshots\passed\InValidLogin-2018-12-29-21-24-01.png'> <img src="C:\Users\Tester\Downloads\orangehrm_26-11-2018-20181223T154348Z-001\orangehrm\target\surefire-reports\Screenshots\passed\InValidLogin-2018-12-29-21-24-01.png"></a></div>]]>
+    </line>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="7846" started-at="2018-12-30T02:23:53Z" finished-at="2018-12-30T02:24:01Z">
+    <groups>
+    </groups>
+    <test name="Login tests" duration-ms="7846" started-at="2018-12-30T02:23:53Z" finished-at="2018-12-30T02:24:01Z">
+      <class name="com.anass.orangehrm.tests.InValidLoginTest">
+        <test-method status="PASS" signature="setupDriver(java.lang.String)[pri:0, instance:com.anass.orangehrm.tests.InValidLoginTest@6c3708b3]" name="setupDriver" is-config="true" duration-ms="5931" started-at="2018-12-29T21:23:53Z" finished-at="2018-12-29T21:23:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="InValidLogin()[pri:0, instance:com.anass.orangehrm.tests.InValidLoginTest@6c3708b3]" name="InValidLogin" duration-ms="1263" started-at="2018-12-29T21:23:59Z" finished-at="2018-12-29T21:24:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[screenshot for C:\Users\Tester\Downloads\orangehrm_26-11-2018-20181223T154348Z-001\orangehrm\target\surefire-reports\Screenshots\passed\InValidLogin-2018-12-29-21-24-01.png url=https://opensource-demo.orangehrmlive.com/index.php/auth/validateCredentials<div style="height:650px;width:1000px;overflow:scroll"><a target='_blank' href='C:\Users\Tester\Downloads\orangehrm_26-11-2018-20181223T154348Z-001\orangehrm\target\surefire-reports\Screenshots\passed\InValidLogin-2018-12-29-21-24-01.png'> <img src="C:\Users\Tester\Downloads\orangehrm_26-11-2018-20181223T154348Z-001\orangehrm\target\surefire-reports\Screenshots\passed\InValidLogin-2018-12-29-21-24-01.png"></a></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- InValidLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anass.orangehrm.tests.InValidLoginTest@6c3708b3]" name="tearDown" is-config="true" duration-ms="231" started-at="2018-12-29T21:24:01Z" finished-at="2018-12-29T21:24:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.anass.orangehrm.tests.InValidLoginTest -->
+    </test> <!-- Login tests -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
